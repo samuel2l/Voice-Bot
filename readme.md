@@ -663,4 +663,8 @@ For issues and questions:
 
 ---
 
-**Built with ❤️ for seamless human-AI voice interaction**
+
+This tutorial is taught by **AssemblyAI**, with a few tweaks applied to match newer **streaming implementations**.
+
+🎥 **Video link:**  
+https://www.youtube.com/watch?v=Nyo5m_glZXs&list=PPSV&t=77s
